@@ -41,4 +41,4 @@ jobs:
           app-name: 'azfun-docusignconnectlistener-local-eun'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A92A63F7BBCC4F8081E8F40813D5CA11 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F5DED99EEF8449FB4BBF3149F5C7C29 }}
